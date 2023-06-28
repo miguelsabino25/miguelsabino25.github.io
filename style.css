@@ -53,3 +53,33 @@ body {
     color: red;
 }
 
+#secao3 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+#secao3 h2 {
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#secao3 li {
+    list-style: none;
+    margin-top: 5px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.habilidade1 {
+    color: red;
+}
+
+.habilidade2 {
+    color: purple;
+}
+
+.habilidade3 {
+    color: palevioletred;
+}
+
